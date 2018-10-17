@@ -10,4 +10,4 @@ Tested with Tomcat DBCP and C3Po based connection pooling.
 
 Please feel free to use and report issue.
 
-Please note that this lib can be used any server as long as the library kept in the classpath and factory bean refer to the encrypted class name.
+Please note that this lib can be used in any server/jvm as long as the library kept in the classpath and factory bean refered to the encrypted class name.
